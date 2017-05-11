@@ -4,7 +4,7 @@ package com.zhixingweather.zhixingweather.db;
  * Created by Administrator on 2017-05-04.
  */
 
-public class County extends Datasupport {
+public class County extends DataSupport {
 
     private int id;
     private String countyName;
